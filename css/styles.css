@@ -1,0 +1,52 @@
+body {
+    color: #FDA769;
+    text-align: center;
+}
+
+footer {
+    background-color: #FEC868;
+    padding: 5% 0%;
+}
+
+.footer-text {
+    color: white;
+}
+
+#top-container{
+    background-color: #ABC270;
+    padding: 5% 0%;
+}
+
+#middle-container{
+    background-color: #473C33;
+    padding: 15% 0%;
+}
+
+.title {
+    color: #FFFFFF;
+    font-size: 5.625em;
+}
+
+.subtitle {
+    color: #FEC868;
+    font-size: 2em;
+}
+
+.post-1 {
+    background-color: green;
+    top: 150px 10px;
+    width: 500px;
+    height: 500px;
+}
+
+.post-2 {
+    background-color: blue;
+    width: 500px;
+    height: 500px;
+}
+
+.post-3 {
+    background-color: red;
+    width: 500px;
+    height: 500px;
+}
